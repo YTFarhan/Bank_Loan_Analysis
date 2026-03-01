@@ -23,7 +23,7 @@ Workflow:
 * **Microsoft SQL Server 19**
 * **SQL Server Management Studio (SSMS)**
 * **Power BI (June 2023 Version)**
-* **Microsoft Excel 2021**
+* **Microsoft Excel**
 
 
 ---
@@ -60,7 +60,7 @@ Metrics calculated:
 * Funded amount
 * Amount received
 
-<img width="1970" height="1105" alt="Screenshot 2026-03-01 141915" src="https://github.com/user-attachments/assets/ad5c335a-608a-42ec-9d71-1241d5c72011" />
+<img width="1970" height="1105" alt="Screenshot 2026-03-01 141915" src="https://github.com/user-attachments/assets/451c12c5-b3d3-4b60-9790-41cd46d3a03b" />
 
 
 ---
@@ -83,7 +83,7 @@ Metrics shown:
 * Total Amount Received
 
 
-<img width="1972" height="1105" alt="Screenshot 2026-03-01 141938" src="https://github.com/user-attachments/assets/0e2676fe-ac00-4d44-ba61-5a5cea0d7efc" />
+<img width="1972" height="1105" alt="Screenshot 2026-03-01 141938" src="https://github.com/user-attachments/assets/f71f9f43-ab30-40bd-894c-12173fba930c" />
 
 
 ---
@@ -102,7 +102,7 @@ A comprehensive grid view including:
 This dashboard provides a detailed operational view of the loan portfolio.
 
 
-<img width="1967" height="1106" alt="Screenshot 2026-03-01 142006" src="https://github.com/user-attachments/assets/21b1370b-0b0f-420a-a512-3538927f89a6" />
+<img width="1967" height="1106" alt="Screenshot 2026-03-01 142006" src="https://github.com/user-attachments/assets/712430b8-d3f7-472d-80fc-3f78df45dde1" />
 
 
 ---
@@ -153,7 +153,7 @@ GROUP BY MONTH(issue_date), DATENAME(MONTH, issue_date)
 ORDER BY MONTH(issue_date);
 ```
 
-**Full Query:** <a href="https://github.com/YTFarhan/Bank_Loan_Analysis-/blob/main/Bank%20Loan%20Analysis.sql">View MS SQL</a>
+**Full Query:** <a href="https://github.com/YTFarhan/Bank_Loan_Analysis/blob/main/Bank%20Loan%20Analysis.sql">View MS SQL</a>
 
 ---
 
