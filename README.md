@@ -82,8 +82,7 @@ Metrics shown:
 * Total Funded Amount
 * Total Amount Received
 
-
-<img width="1972" height="1105" alt="Screenshot 2026-03-01 141938" src="https://github.com/user-attachments/assets/f71f9f43-ab30-40bd-894c-12173fba930c" />
+<img width="1974" height="1110" alt="Screenshot 2026-03-24 170247" src="https://github.com/user-attachments/assets/80d8be1b-b8f4-4f14-9f47-486321dab930" />
 
 
 ---
