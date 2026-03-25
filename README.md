@@ -20,9 +20,9 @@ Workflow:
 
 ## 🛠️ Tools & Technologies Used
 
-* **Microsoft SQL Server 19**
+* **Microsoft SQL Server**
 * **SQL Server Management Studio (SSMS)**
-* **Power BI (June 2023 Version)**
+* **Power BI**
 * **Microsoft Excel**
 
 
@@ -82,7 +82,7 @@ Metrics shown:
 * Total Funded Amount
 * Total Amount Received
 
-<img width="1974" height="1110" alt="Screenshot 2026-03-24 170247" src="https://github.com/user-attachments/assets/80d8be1b-b8f4-4f14-9f47-486321dab930" />
+<img width="1977" height="1109" alt="Screenshot 2026-03-25 101420" src="https://github.com/user-attachments/assets/359cb5ab-2e98-445d-9002-e06512d8e166" />
 
 
 ---
@@ -101,7 +101,7 @@ A comprehensive grid view including:
 This dashboard provides a detailed operational view of the loan portfolio.
 
 
-<img width="1967" height="1106" alt="Screenshot 2026-03-01 142006" src="https://github.com/user-attachments/assets/712430b8-d3f7-472d-80fc-3f78df45dde1" />
+<img width="1973" height="1110" alt="Screenshot 2026-03-25 101445" src="https://github.com/user-attachments/assets/0431e6b7-cb69-4e4e-99a5-60615b73e406" />
 
 
 ---
