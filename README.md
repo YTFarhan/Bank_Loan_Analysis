@@ -30,6 +30,8 @@ Workflow:
 
 ## 🎯 Business Problem
 
+- <a href="https://youtu.be/geG1X7Vi8XY?si=kIE9byRZVRqFqLGI">Live View Dashboard</a>
+
 The goal was to analyze loan portfolio performance and build 3 dashboards:
 
 ### 1️⃣ Dashboard 1 – Summary
