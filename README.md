@@ -21,7 +21,6 @@ Workflow:
 ## 🛠️ Tools & Technologies Used
 
 * **Microsoft SQL Server**
-* **SQL Server Management Studio (SSMS)**
 * **Power BI**
 * **Microsoft Excel**
 
